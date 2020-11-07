@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,MAAM;CACpB",
+    "sources": [
+        "TableHeader.scss"
+    ],
+    "names": [],
+    "file": "TableHeader.css"
+}

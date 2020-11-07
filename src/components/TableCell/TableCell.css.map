@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,GAAG,CAAC,EAAE,IAAI,CAAA;EACT,MAAM,EAAE,OAAO;CACjB;;AACD,AAAA,KAAK,CAAC;EACH,UAAU,EAAC,MACd;CAAC;;AACD,AAAA,KAAK,CAAC;EACH,UAAU,EAAC,OACd;CAAC;;AACD,AAAA,EAAE,CAAC;EACA,gBAAgB,EAAE,OAAkB;CACtC",
+    "sources": [
+        "TableCell.scss"
+    ],
+    "names": [],
+    "file": "TableCell.css"
+}

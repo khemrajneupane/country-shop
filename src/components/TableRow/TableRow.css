@@ -1,0 +1,13 @@
+tr .td2 {
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 8px;
+  background-color: rgba(7, 17, 163, 0.1);
+}
+
+tr .td1 {
+  background-color: #8a7777;
+}
+/*# sourceMappingURL=TableRow.css.map */

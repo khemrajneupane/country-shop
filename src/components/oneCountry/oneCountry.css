@@ -1,0 +1,24 @@
+body {
+  background-color: whitesmoke;
+}
+
+.main {
+  display: -ms-grid;
+  display: grid;
+  -webkit-column-gap: 2rem;
+          column-gap: 2rem;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  justify-items: center;
+  margin-top: 10rem;
+}
+
+.main__head {
+  text-align: center;
+}
+
+.mybtn {
+  font-size: 1rem;
+}
+/*# sourceMappingURL=oneCountry.css.map */

@@ -1,0 +1,16 @@
+th > i, span {
+  cursor: pointer;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
+
+th {
+  background-color: #a8b198;
+}
+/*# sourceMappingURL=TableCell.css.map */

@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+}
+.main {
+    display:grid;
+    column-gap: 2rem;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 10rem;
+    &__head {
+        text-align: center;
+    }
+}
+.mybtn {
+    font-size: 1rem;
+}

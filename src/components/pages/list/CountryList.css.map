@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,QAAQ,CAAC;EACP,MAAM,EAAE,MAAM;CACf",
+    "sources": [
+        "CountryList.scss"
+    ],
+    "names": [],
+    "file": "CountryList.css"
+}
