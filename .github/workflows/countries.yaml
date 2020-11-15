@@ -1,4 +1,4 @@
-name: Nodejs yarn workflow netlify
+name: Nodejs project
 on:
   push:
     branches: [ master ]
