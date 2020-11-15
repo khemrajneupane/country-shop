@@ -1,4 +1,4 @@
-name: Nodejs project
+name: Nodejs project and deploying to Netlify
 on:
   push:
     branches: [ master ]
