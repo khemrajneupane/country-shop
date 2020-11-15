@@ -2,6 +2,8 @@ name: Nodejs project and deploying to Netlify
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
