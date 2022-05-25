@@ -12,7 +12,7 @@ function countriesList_OK(countries: Countries[]): CountryActions {
 }
 const countryList = () => {
   return async (dispatch: Dispatch<any>) => {
-    const data = await fetch(`https://restcountries.eu/rest/v2`)
+    const data = await fetch(`https://restcountries.com/v3.1/all`)
     const countries = await data.json()
     dispatch(countriesList_OK(countries))
   }
